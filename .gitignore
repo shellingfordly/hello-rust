@@ -1,1 +1,3 @@
 target
+template/**
+.env.production
