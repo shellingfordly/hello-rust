@@ -37,6 +37,8 @@ fn main() {
         }
     }
 
+    println!("test commit");
+
     git_pull(repo_url, local_path);
 
     git_commit(local_path);
